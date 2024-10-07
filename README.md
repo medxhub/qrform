@@ -1,6 +1,6 @@
 # demat_qform&copy;
 
-A tool to dematerialize application forms.
+An offline tool to dematerialize application forms.
 Supports qr code and pdf.
 Higly customizable.
 
@@ -10,3 +10,5 @@ Higly customizable.
 - Generates a PDF file from submitted data
   
 
+- Imported :
+- jspdf / Qrious
