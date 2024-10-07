@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  flex-direction: column;
+  max-width: 2500px;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Book Antiqua, sans-serif, Cairo;
+  margin: 10px;
+  padding: 10px auto;
+  /*background: linear-gradient(135deg, #be76ed, #9b59b6);*/
+}
