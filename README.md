@@ -11,5 +11,5 @@ Higly customizable.
   
 
 ## Imported libs :
-- jspdf
-- Qrious
+- jspdf version 2.5.1
+- Qrious version 4.0.2
