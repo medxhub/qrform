@@ -10,5 +10,6 @@ Higly customizable.
 - Generates a PDF file from submitted data
   
 
-- Imported :
-- jspdf / Qrious
+## Imported libs :
+- jspdf
+- Qrious
