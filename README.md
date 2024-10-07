@@ -11,5 +11,5 @@ Higly customizable.
   
 
 ## Imported libs :
-- jspdf version 2.5.1
-- Qrious version 4.0.2
+- jspdf version 2.5.1 ( https://github.com/neocotic/qrious )
+- Qrious version 4.0.2 ( https://github.com/parallax/jsPDF )
